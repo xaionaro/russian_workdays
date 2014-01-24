@@ -1,5 +1,5 @@
 Summary
-=======
+-------
 
 Парсер производственного календаря <http://www.superjob.ru/proizvodstvennyj_kalendar/>
 
@@ -11,7 +11,7 @@ Summary
 
 
 On Debian/Ubuntu
-================
+----------------
 
     apt-get install python-bs4 python-simplejson python-distribute python-wsgiref git
     git clone https://github.com/AyumuKasuga/russian_workdays
