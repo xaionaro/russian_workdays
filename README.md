@@ -10,8 +10,8 @@ Summary
 + short - сокращенный день
 
 
-Debian
-======
+On Debian
+=========
 
     apt-get install python-bs4 python-simplejson python-distribute python-wsgiref git
     git clone https://github.com/AyumuKasuga/russian_workdays
