@@ -10,10 +10,10 @@ Summary
 + short - сокращенный день
 
 
-Usage
-=====
+Debian
+======
 
-    apt-get install python-bs4 python-simplejson git
+    apt-get install python-bs4 python-simplejson python-distribute python-wsgiref git
     git clone https://github.com/AyumuKasuga/russian_workdays
     cd russian_workdays
     python ./parser.py
