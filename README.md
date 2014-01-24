@@ -14,5 +14,5 @@ Usage
 
     apt-get install python-bs4 python-simplejson git
     git clone https://github.com/AyumuKasuga/russian_workdays
-    cd https://github.com/AyumuKasuga/russian_workdays
+    cd russian_workdays
     python ./parser.py
